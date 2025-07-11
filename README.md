@@ -15,3 +15,10 @@ FactCustomerTransaction – Summary KPIs: total spend, units.
 FactProductCategoryCount – Count of products purchased per category
 FactDimRecommendations – Product recommendations with probability scores
 
+
+Tools & Technologies
+Power BI Desktop
+Power Query (M)
+DAX Measures for KPIs and segmentation
+Excel/CSV source files
+
